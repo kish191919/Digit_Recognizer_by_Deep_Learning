@@ -17,13 +17,7 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 ### Evaluation Method
 This competition is evaluated on the categorization accuracy of your predictions (the percentage of images you get correct).
 
-### Competition Timeline
-- Start Date: 7/25/2012 8:43 PM UTC
-- Merger Deadline: None
-- Entry Deadline: None
-- End Date: 1/7/2020 12:00 AM UTC
-
 ### Prediction
 - Model : Keras Sequential  
 - Kaggle Score : 0.98271
-- Kaggle rank : 1,139 / 2,279 (49.9%) [2018.4.23]
+- Kaggle rank : 1,139 / 2,279 (49.9%)
